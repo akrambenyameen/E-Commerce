@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "64f8c8e9d5eb84cc3f38fd14"
+  },
+  "name": "electronics",
+  "slug": "electronics",
+  "image": {
+    "url": "https://res.cloudinary.com/dm6ytket2/image/upload/v1694025959/ecommerce/category/fuuhtw0pdqm9bdyre4pd.jpg",
+    "id": "ecommerce/category/fuuhtw0pdqm9bdyre4pd"
+  },
+  "createdBy": {
+    "$oid": "64f6999510fd800282dfd7d8"
+  },
+  "createdAt": {
+    "$date": "2023-09-06T18:46:01.943Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T18:46:01.943Z"
+  },
+  "__v": 0
+}]

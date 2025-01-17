@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "64f8f2f3e7f6943b9cd1d14c"
+  },
+  "name": "mobile phones",
+  "slug": "mobile-phones",
+  "image": {
+    "id": "ecommercesubcategory/aslgkkzxomc8yenz41f2",
+    "url": "https://res.cloudinary.com/dm6ytket2/image/upload/v1694036721/ecommercesubcategory/aslgkkzxomc8yenz41f2.jpg"
+  },
+  "categoryId": {
+    "$oid": "64f8c8e9d5eb84cc3f38fd14"
+  },
+  "createdBy": {
+    "$oid": "64f6999510fd800282dfd7d8"
+  },
+  "createdAt": {
+    "$date": "2023-09-06T21:45:23.377Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T21:45:23.377Z"
+  },
+  "__v": 0
+}]

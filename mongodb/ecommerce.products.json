@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "64fdd8f8e3bf2237136e779c"
+  },
+  "name": "dell g3",
+  "description": "core i5  ",
+  "images": [
+    {
+      "id": "ecommerce/product/XRK0v_47Lz5jt1Pm4CADG/xgcaeuz7jabwcvpxn76k",
+      "url": "https://res.cloudinary.com/dm6ytket2/image/upload/v1694357748/ecommerce/product/XRK0v_47Lz5jt1Pm4CADG/xgcaeuz7jabwcvpxn76k.jpg",
+      "_id": {
+        "$oid": "64fdd8f8e3bf2237136e779d"
+      }
+    },
+    {
+      "id": "ecommerce/product/XRK0v_47Lz5jt1Pm4CADG/gkvtikmwihasurmnwvca",
+      "url": "https://res.cloudinary.com/dm6ytket2/image/upload/v1694357749/ecommerce/product/XRK0v_47Lz5jt1Pm4CADG/gkvtikmwihasurmnwvca.jpg",
+      "_id": {
+        "$oid": "64fdd8f8e3bf2237136e779e"
+      }
+    }
+  ],
+  "defaultImage": {
+    "id": "ecommerce/product/XRK0v_47Lz5jt1Pm4CADG/sws1vurgbcjypgvbpdew",
+    "url": "https://res.cloudinary.com/dm6ytket2/image/upload/v1694357752/ecommerce/product/XRK0v_47Lz5jt1Pm4CADG/sws1vurgbcjypgvbpdew.jpg"
+  },
+  "availableItems": 5,
+  "soldItems": 0,
+  "price": 25000,
+  "discount": 2,
+  "createdBy": {
+    "$oid": "64f6999510fd800282dfd7d8"
+  },
+  "cloudFolder": "XRK0v_47Lz5jt1Pm4CADG",
+  "createdAt": {
+    "$date": "2023-09-10T14:55:52.944Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T14:55:52.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff705bde516a512e5f19e3"
+  },
+  "name": "hp",
+  "description": " laptop",
+  "images": [
+    {
+      "id": "ecommerce/product/7LZJBpKqrZI_-jYbRlFPC/djtxxussjnzarauex1bj",
+      "url": "https://res.cloudinary.com/dm6ytket2/image/upload/v1694462040/ecommerce/product/7LZJBpKqrZI_-jYbRlFPC/djtxxussjnzarauex1bj.jpg",
+      "_id": {
+        "$oid": "64ff705bde516a512e5f19e4"
+      }
+    },
+    {
+      "id": "ecommerce/product/7LZJBpKqrZI_-jYbRlFPC/ro4u5abqkfchjrrtiszn",
+      "url": "https://res.cloudinary.com/dm6ytket2/image/upload/v1694462042/ecommerce/product/7LZJBpKqrZI_-jYbRlFPC/ro4u5abqkfchjrrtiszn.jpg",
+      "_id": {
+        "$oid": "64ff705bde516a512e5f19e5"
+      }
+    }
+  ],
+  "defaultImage": {
+    "id": "ecommerce/product/7LZJBpKqrZI_-jYbRlFPC/uyuwghm4lz91munaz6tw",
+    "url": "https://res.cloudinary.com/dm6ytket2/image/upload/v1694462043/ecommerce/product/7LZJBpKqrZI_-jYbRlFPC/uyuwghm4lz91munaz6tw.jpg"
+  },
+  "availableItems": 12,
+  "soldItems": 0,
+  "price": 15000,
+  "discount": 10,
+  "createdBy": {
+    "$oid": "64f6999510fd800282dfd7d8"
+  },
+  "cloudFolder": "7LZJBpKqrZI_-jYbRlFPC",
+  "createdAt": {
+    "$date": "2023-09-11T19:54:04.028Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T19:54:04.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff70a8de516a512e5f19e9"
+  },
+  "name": "oppo",
+  "description": "mobile phone",
+  "images": [
+    {
+      "id": "ecommerce/product/-TXk06dH5WapzwUTDNpIz/sset108id4rsfttwkugj",
+      "url": "https://res.cloudinary.com/dm6ytket2/image/upload/v1694462115/ecommerce/product/-TXk06dH5WapzwUTDNpIz/sset108id4rsfttwkugj.jpg",
+      "_id": {
+        "$oid": "64ff70a8de516a512e5f19ea"
+      }
+    },
+    {
+      "id": "ecommerce/product/-TXk06dH5WapzwUTDNpIz/lmeamidksr71fjvxcmpl",
+      "url": "https://res.cloudinary.com/dm6ytket2/image/upload/v1694462118/ecommerce/product/-TXk06dH5WapzwUTDNpIz/lmeamidksr71fjvxcmpl.jpg",
+      "_id": {
+        "$oid": "64ff70a8de516a512e5f19eb"
+      }
+    }
+  ],
+  "defaultImage": {
+    "id": "ecommerce/product/-TXk06dH5WapzwUTDNpIz/tqer0lfrmfmncqxypp7g",
+    "url": "https://res.cloudinary.com/dm6ytket2/image/upload/v1694462120/ecommerce/product/-TXk06dH5WapzwUTDNpIz/tqer0lfrmfmncqxypp7g.jpg"
+  },
+  "availableItems": 24,
+  "soldItems": 0,
+  "price": 9000,
+  "discount": 10,
+  "createdBy": {
+    "$oid": "64f6999510fd800282dfd7d8"
+  },
+  "cloudFolder": "-TXk06dH5WapzwUTDNpIz",
+  "createdAt": {
+    "$date": "2023-09-11T19:55:20.891Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T19:55:20.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff70dfd14f25acbc3b4936"
+  },
+  "name": "oppo",
+  "description": "mobile phone",
+  "images": [
+    {
+      "id": "ecommerce/product/u_RBd8AyyKaYTz6yUVXJy/e7wguubkmyvoq0on0m4d",
+      "url": "https://res.cloudinary.com/dm6ytket2/image/upload/v1694462169/ecommerce/product/u_RBd8AyyKaYTz6yUVXJy/e7wguubkmyvoq0on0m4d.jpg",
+      "_id": {
+        "$oid": "64ff70dfd14f25acbc3b4937"
+      }
+    },
+    {
+      "id": "ecommerce/product/u_RBd8AyyKaYTz6yUVXJy/uquyuztf9mx9rjbhuyqr",
+      "url": "https://res.cloudinary.com/dm6ytket2/image/upload/v1694462172/ecommerce/product/u_RBd8AyyKaYTz6yUVXJy/uquyuztf9mx9rjbhuyqr.jpg",
+      "_id": {
+        "$oid": "64ff70dfd14f25acbc3b4938"
+      }
+    }
+  ],
+  "defaultImage": {
+    "id": "ecommerce/product/u_RBd8AyyKaYTz6yUVXJy/rf8bbrwcjte5suteoghl",
+    "url": "https://res.cloudinary.com/dm6ytket2/image/upload/v1694462174/ecommerce/product/u_RBd8AyyKaYTz6yUVXJy/rf8bbrwcjte5suteoghl.jpg"
+  },
+  "availableItems": 24,
+  "soldItems": 0,
+  "price": 9000,
+  "discount": 10,
+  "createdBy": {
+    "$oid": "64f6999510fd800282dfd7d8"
+  },
+  "cloudFolder": "u_RBd8AyyKaYTz6yUVXJy",
+  "createdAt": {
+    "$date": "2023-09-11T19:56:15.879Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T19:56:15.879Z"
+  },
+  "__v": 0
+}]

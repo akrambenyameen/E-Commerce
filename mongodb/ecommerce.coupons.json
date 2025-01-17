@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "64ffd099b8ef29335de6c1d2"
+  },
+  "name": "PRZbz",
+  "discount": 44,
+  "expiredAt": {
+    "$numberLong": "1725778800000"
+  },
+  "createdBy": {
+    "$oid": "64f6999510fd800282dfd7d8"
+  },
+  "createdAt": {
+    "$date": "2023-09-12T02:44:41.499Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T04:24:50.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ffd0aa3f58129d154a6ed4"
+  },
+  "name": "E7wyB",
+  "discount": 2,
+  "expiredAt": {
+    "$numberLong": "1703145600000"
+  },
+  "createdBy": {
+    "$oid": "64f6999510fd800282dfd7d8"
+  },
+  "createdAt": {
+    "$date": "2023-09-12T02:44:58.080Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T02:44:58.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ffd1033f58129d154a6ed8"
+  },
+  "name": "3VToB",
+  "discount": 20,
+  "expiredAt": {
+    "$numberLong": "1723100400000"
+  },
+  "createdBy": {
+    "$oid": "64f6999510fd800282dfd7d8"
+  },
+  "createdAt": {
+    "$date": "2023-09-12T02:46:27.840Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T04:08:43.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ffd1133f58129d154a6edc"
+  },
+  "name": "tLetO",
+  "discount": 10,
+  "expiredAt": {
+    "$numberLong": "1712300400000"
+  },
+  "createdBy": {
+    "$oid": "64f6999510fd800282dfd7d8"
+  },
+  "createdAt": {
+    "$date": "2023-09-12T02:46:43.085Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T02:46:43.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ffd15daea5275104651e9a"
+  },
+  "name": "haK9t",
+  "discount": 10,
+  "expiredAt": {
+    "$numberLong": "1712300400000"
+  },
+  "createdBy": {
+    "$oid": "64f6999510fd800282dfd7d8"
+  },
+  "createdAt": {
+    "$date": "2023-09-12T02:47:57.972Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T02:47:57.972Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ffd1928c0dbe7cde9c1a86"
+  },
+  "name": "eafyv",
+  "discount": 10,
+  "expiredAt": {
+    "$numberLong": "1712300400000"
+  },
+  "createdBy": {
+    "$oid": "64f6999510fd800282dfd7d8"
+  },
+  "createdAt": {
+    "$date": "2023-09-12T02:48:50.268Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T02:48:50.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ffdf6dc5b309e460de01b0"
+  },
+  "name": "zjBR6",
+  "discount": 10,
+  "expiredAt": {
+    "$numberLong": "1712300400000"
+  },
+  "createdBy": {
+    "$oid": "64f6999510fd800282dfd7d8"
+  },
+  "createdAt": {
+    "$date": "2023-09-12T03:47:57.348Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T03:47:57.348Z"
+  },
+  "__v": 0
+}]
